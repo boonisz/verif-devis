@@ -1,0 +1,230 @@
+@charset "UTF-8";
+
+
+/* Ces variables peuvent être remplacées par d'autres couleurs
+dans la feuille de style des profils */
+:root {
+    --app-color-light: var(--bs-gray-200);
+    --app-color: var(--bs-warning);
+    --bs-nav-color: rgba(0, 0, 200, 0.5);
+}
+
+
+/*******************************************
+        Style par profil
+*******************************************/
+.bg-app-color {
+    background: var(--app-color-light);
+}
+
+/* Show selected page on menu */
+.dropdown-menu.active, .menu.active {
+    color: var(--app-color) !important;
+}
+
+/*******************************************
+        Style
+*******************************************/
+/* Make red the tab cross on hover */
+.tab-close:hover {
+    color: red;
+}
+
+/* Color checkbox label in red when not ticked, then in green */
+.form-check-label {
+    color: red;
+}
+input[type="checkbox"]:checked + .form-check-label {
+    color: green;
+}
+.col-auto .switch {
+    font-size: 0.7rem;
+}
+
+.form-switch .form-check-input:checked {
+    background-color: var(--bs-info);
+    border-color: var(--bs-info);
+}
+
+.switch {
+    font-size: 0.8rem;
+}
+
+/* Helper popover */
+.custom-popover {
+    --bs-popover-border-color: var(--bs-primary);
+    --bs-popover-max-width: 400px;
+}
+
+/* box to display warning/info... */
+.box {
+    margin: 5px 100px 10px 20px;
+    padding: 5px;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+}
+.box-primary {
+    border-left-color: var(--bs-primary);
+    color: var(--bs-primary);
+    background-color: rgba(var(--bs-primary-rgb), 0.1) !important;
+}
+.box-warning {
+    border-left-color: var(--bs-warning);
+    color: var(--bs-warning);
+    background-color: rgba(var(--bs-warning-rgb), 0.1) !important;
+}
+.box-danger {
+    border-left-color: var(--bs-danger);
+    color: var(--bs-danger);
+    background-color: rgba(var(--bs-danger-rgb), 0.1) !important;
+}
+
+/* Documentation -------------------------------------------------------------------- */
+.doc h2 {
+    margin-top: 50px !important;
+}
+
+#editor {
+    font-size: 1.0rem;  /* make text bigger */
+    height: 80vh;
+}
+
+/* Afficher les commentaires écrits par le conseiller en bleu italique */
+.form-control::placeholder, textarea, .commentaire {
+    color: blue !important;
+    font-style: italic !important;
+}
+
+/* Markdown to php pre code */
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+/*******************************************
+        Printing style
+*******************************************/
+@media print
+{
+    html {
+        font-size: 0.8rem;
+    }
+
+    /* Enlever le fond et les bordures pour les zones de textes */
+    .form-control::placeholder, input, textarea, .commentaire {
+        border: 0 !important;
+    }
+    .form-control:disabled{
+        color: blue !important;
+        background-color:transparent !important;
+    }
+
+    /* Make content page full width */
+    .container {
+        margin: 0cm;
+        width: 100%;
+        max-width: None;
+    }
+
+    /* Remove footer and show each tab content */
+    footer {
+        display: none;
+    }
+    .tab-content > .tab-pane {
+        display: block !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        padding: 0px;
+    }
+    #myTabContent, #doc-tab-pane, .container{
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+    .tab-pane {
+        margin-left: 0 !important;
+    }
+
+    /* Force new page for each post */
+    .post-title {
+        page-break-before: always !important;
+        break-before: page !important;
+    }
+
+    /* Background color for titles */
+    h1 {
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+        font-size: 2.5rem;
+        margin-top: 20px !important;  /* Space before and after colored box */
+        padding: 30px;  /* Space on top and bottom inside the colored box */
+
+        /* Force print background color */
+        background: var(--app-color-light);
+        -webkit-print-color-adjust: exact !important;   /* Chrome, Safari, Edge */
+        color-adjust: exact !important;
+    }
+    h2 {
+        padding: 5px;
+
+        /* Force print background color */
+        background: var(--app-color-light);
+        -webkit-print-color-adjust: exact !important;   /* Chrome, Safari, Edge */
+        color-adjust: exact !important;
+    }
+
+    /* Do not display empty text area */
+    .noPrintDisplay {
+        display:none;
+    }
+
+    /* Accordion */
+    .accordion-button:not(.collapsed)::after {
+        background-image: none;
+    }
+    .accordion {
+        margin-top: 0 !important;
+    }
+    .accordion-button {
+        padding-bottom: 0;
+        box-shadow: none !important;
+        font-size: 1.25rem !important;
+        color: black !important;
+        background: white !important;
+        border: 0 !important;
+    }
+    .accordion-body {
+        padding-top: 0;
+        border: 0 !important;
+    }
+    .accordion-item, .accordion-button {
+        padding-top: 0;
+        border: 0 !important;
+    }
+
+    /* Make annexes smaller */
+    .annexe {
+        color: var(--bs-secondary);
+        line-height: 1.1em;
+    }
+    p .annexe {
+        font-size: 0.7rem !important;
+    }
+
+    /* Make header and footer non visible (margin top and margin bottom at zero) */
+    /* (aim = not to see the page's URL on the printed PDF */
+    /* Add a margin-top to the body element, not to crop the page content*/
+    @page {
+        size: auto;
+        margin-top: 0cm;
+        margin-bottom: 0cm;
+    }
+
+    body {
+        margin-top: 1cm;
+    }
+
+}
