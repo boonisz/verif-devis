@@ -1,0 +1,5 @@
+# Disable directory listings
+IndexIgnore *
+
+# Disable Indexing
+Options -Indexes

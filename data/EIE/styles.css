@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/*****************************************************
+  Charte EIE Rhône Alpes
+
+  &gt; https://cloud.ageden38.org/s/a6Q6msCtJ8gsq3Z
+
+    jaune  : #ffe500   RGB: 255, 229, 0
+    orange : #ff9900   RGB: 255, 153, 0
+*****************************************************/
+
+:root {
+    --app-color-light: #ffe500;  /* couleur de fond pour menu/footer et titre dans le pdf */
+    --app-color: #ff9900;  /* couleur page selectionnée dans le menu */
+}

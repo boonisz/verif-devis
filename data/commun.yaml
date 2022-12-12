@@ -1,0 +1,64 @@
+"Informations administratives obligatoires pour les aides financières":
+    - "Mention explicite « Devis »" : |
+        Les bons de commande et les propositions commerciales ne sont pas acceptés par les instructeurs des aides financières.
+    - "Nom et prénom du client": |
+        Le nom <b>ET</b> le prénom du particulier doivent être les mêmes sur le devis et la demande d'aide financière.
+    - "Adresse de facturation  (numéro, nom de rue, code postal et ville)"
+    - "Adresse des travaux (numéro, nom de rue, code postal et ville)": |
+        Si l'adresse de facturation et de chantier sont identiques, ajouter une mention de type : <i>« Adresse de chantier identique »</i>.
+    - "Dénomination sociale, forme juridique (ex : SARL), capital social et SIRET de la société (sauf personnes physiques professionnelles)"
+    - "Adresse du siège social de l'entreprise (numéro, nom de rue, code postal et ville)"
+    - "Numéro de TVA intracommunautaire"
+    - "Qualification RGE avec intitulé de la qualification, organisme certificateur et le numéro de qualification dans chaque domaine": |
+        <b>Pour vérifier la qualification de l'entreprise :</b><br>[L’annuaire des artisans qualifiés](https://france-renov.gouv.fr/annuaire-rge)<br><br><b>Quelles qualifications et certifications RGE pour quels travaux en 2022 ?</b><br>[Guide Ademe](https://librairie.ademe.fr/urbanisme-et-batiment/5651-quelles-qualifications-et-certifications-rge-pour-quels-travaux-en-2022-.html#/44-type_de_produit-format_electronique)<br><br><b>Pour aller plus loin :</b><br>[France Renov'- RGE, c'est quoi ?](https://france-renov.gouv.fr/recrutement/qualifications-rge)
+    - "Date d'émission du devis"
+    - "Date de pré-visite technique" : |
+        Réalisée par un professionnel qualifié RGE, au plus tard avant l’établissement du devis, la pré-visite du bâtiment permet de valider une bonne exécution des travaux selon les contraintes du chantier.
+
+        Sans ambiguïté possible, la visite préalable est donc réalisée par l'entreprise qui fait les travaux et qui, de ce fait, est titulaire du signe de qualité RGE.
+
+        Si une entreprise donneur d'ordre fait appel à un sous-traitant, c'est ce dernier qui doit effectuer la visite.
+    - "Date prévisionnelle du début des travaux (et éventuellement, la durée estimée des travaux)" : |
+        En l’absence de mention du délai d’exécution, le professionnel devra s’exécuter sans retard justifié et au plus tard 30 jours après la signature du devis. <br><br><b>Pour aller plus loin :</b><br>[Article L216-1 Code de la Consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142498).
+    - "Validité du devis": |
+        <b>Le devis doit être valable à la date de dépôt du dossier de demande d'aide financière.</b><br><br>En l’absence de mention de la durée de validité sur le devis, la durée considérée par défaut est de 3 mois.
+    - "Décompte détaillé de chaque prestation et produit (quantité, prix unitaire hors TVA et désignation de l'unité)" : |
+            Si plusieurs types de travaux éligibles figurent sur le même devis, il est recommandé d'afficher en sous-total le montant TTC de la dépense éligible par type de travaux.
+    - "Prix horaire ou forfaitaire de main d'œuvre et éventuels frais de déplacement": |
+            Pour certains postes de travaux, le montant de l'aide financière est calculé sur le prix de la fourniture. Il est donc important d'indiquer le coût de la main d'œuvre.
+    - "Montant global HT et TTC (avant déduction des aides financières), en précisant les taux de TVA applicables et les montants correspondants": |
+        Le montant TTC doit être exprimé avant déduction du montant estimatif de MaPrimeRénov’ et des aides complémentaires (CEE notamment).
+
+        Il est toutefois possible d’ajouter un sous-total estimatif du reste à charge demandeur sous le total TTC.
+
+"#Autres informations administratives obligatoires":
+    - info: |
+          Bien que toutes les mentions soient obligatoires sur les devis, l'absence des mentions suivantes ne génère pas pour le moment de problèmes dans l'instruction des aides financières.
+    - "Numéro Registre du Commerce et des Sociétés (RCS) et ville d'immatriculation (ou numéro d’enregistrement au répertoire des métiers pour un artisan)": |
+        Le numéro RCS est un numéro unique d’identification donné par l’INSEE à tous les commerçants et sociétés s’inscrivant au <b>Registre du Commerce et des Sociétés</b> (RCS). Pour rappel, cette inscription est obligatoire pour toute personne physique ou morale ayant la qualité de société ou de commerçant. Il permet d’identifier l’entreprise et doit être présent sur tous les documents officiels.<br><br>Si la société exerce un objet qui dépend de l’artisanat et que son effectif ne compte pas plus de 10 salariés, elle sera immatriculée auprès du <b>Répertoire du Métiers</b> (RM).  À l’instar du numéro RCS, il s’obtient lors de la création de l’entreprise et permet d’identifier l’entreprise.<br><br>À noter que si votre activité est mixte, c’est-à-dire à la fois commerciale et artisanale, alors vous serez immatriculé auprès des deux répertoires.
+    - "Assurance professionnelle (Responsabilité Civile Décennale - RCD) souscrite avec les coordonnées de l'assureur ou du garant et la couverture géographique du contrat ou de la garantie (garantie décennale pour les pros du bâtiment)": |
+        <b>Mention de type : </b> <br> <i>« Assurance professionnelle : assurance décennale obligatoire, souscrite auprès de (nom et coordonnées de l’assureur), valable en France métropolitaine (et ou non dans les DOM).»</i> <br>
+            <b>ATTENTION :</b><br> Depuis le 01/07/2016, les professionnels sont dans l’obligation de joindre en annexe leur attestation d’assurance RCD aux devis et factures, sous forme papier ou électronique : l’essentiel étant que le client soit informé. <br> [Article L243-2 du Code des assurances](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031010272) <br> [Arrêté du 5 janvier 2016](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000031824672/2022-07-20/)
+    - "Procédures de réclamation, conditions du SAV et coordonnées du médiateur de la consommation" : |
+       <b>Tous les professionnels ont l'obligation de proposer une médiation à leurs clients en cas de litige</b>, d'échec d'une tentative de réglement amiable et avant la saisine du tribunal. <br><br>Pour y répondre, <b>l'entreprise doit choisir un médiateur</b> parmi ceux inscrits sur la liste des médiateurs prévue à l'article L.615-1 du code de la consommation.<br><br>La liste des médiateurs de la consommation référencés par la Commission d'évaluation et de contrôle de la médiation de la consommation (CECMC) est consultable sur le [site internet du ministère de l'économie](https://www.economie.gouv.fr/mediation-conso).<br><br><b>Pour aller plus loin :</b><br>[Article L.612-1 du code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224805/)<br><br><b>Exemple de clause :</b><br><i> « En cas de différend qui pourrait apparaître pour l’exécution du (préciser par exemple : contrat/marché de travaux), nous (en qualité de client et entreprise) privilégierons la recherche d’une solution amiable. Par ce faire, vous adresserez par écrit votre demande au (compléter selon le cas : chef d’entreprise/service client de l’entreprise).<br>Si aucune solution amiable ne peut être trouvée, vous pouvez soumettre le différend au médiateur de la consommation (compléter avec les coordonnées et l’adresse du site internet du médiateur désigné par l’entreprise). »</i>
+    - "Information du délai de rétractation": |
+        En cas de contrat hors établissement, <b>le consommateur bénéficie d’un délai de rétractation de 14 jours</b>.
+        Le professionnel est dans l’obligation d’informer son client de ce délai. <br><br><b>Pour aller plus loin :</b><br>[Article L. 221-18 du code de la consommation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226842/)
+    - "Conditions de paiement, de livraison et d'exécution du contrat": |
+            Généralement inscrites dans les Conditions Générales de Vente (CGV), elles précisent les modalités lors de <i>révision des prix, retard dans les rèlements, travaux supplémentaires, conditions de règlement, etc.</i>
+    - "Mentions liées à la gestion des déchets (estimation de la quantité totale, modalités de gestion, points de collecte...)": |
+        <b>Depuis le 1er juillet 2021, les devis doivent comporter</b> :<br><br>- Une <b>estimation de la quantité totale de déchets</b> qui seront générés par l’entreprise de travaux durant le chantier ;<br><br>- Les <b>modalités de gestion et d’enlèvement des déchets</b> générés durant le chantier, c’est-à-dire l’effort de tri sur le chantier et la nature des déchets pour lesquels une collecte séparée est prévue ;<br><br>- <b>Le ou les points de collecte</b> où l’entreprise de travaux prévoit de déposer les déchets issus du chantier, identifiés par leur raison sociale, leur adresse et le type d’installation ;<br><br>- Une <b>estimation des coûts</b> associés.<br><br><b>Pour aller plus loin :</b><br>[Article D541-45-1 du code de l'environnement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042879507).
+    
+
+"#Informations administratives complémentaires":
+    - info: |
+          En fonction des situations, certains compléments sont nécessaires sur les devis.
+    - "Numéro de la parcelle cadastrale du chantier": |
+        À ajouter si l'adresse n'est pas suffisamment explicite ou avec plusieurs logements au même numéro.
+    - "Si sous-traitance : mention explicite du recours à la sous-traitance, coordonnées de l'entreprise (SIRET, assurance professionnelle, coordonnées du responsable, qualification RGE avec son numéro)<br> "
+    - "Si l'entreprise est doté d'une qualification dite « RGE chantier par chantier » : une clause suspensive sur le devis avec la mention d'une date et des mentions complémentaires": |
+        <b>Clause suspensive : </b><br> <i>'Le défaut d’obtention de la qualification chantier par chantier avant le ... de l’entreprise prestataire des travaux décrits dans le présent devis prive celui-ci de tout effet contraignant à l’égard des parties contractantes.'</i> <br><br> <b>Mentions supplémentaires :</b><br><i>« Jusqu’à 3 mois après la fin du chantier, le client accepte et s’engage à garder accessible le chantier pour tout contrôle par l’organisme de qualification en charge de la gestion de la qualification chantier par chantier.'</i> <br>et <br> <i>'Le client est informé que ses informations personnelles seront transmises à l'organisme de qualification pour l'instruction du dossier ».</i>
+    - "Si aides financières complémentaires : montant indiqué dans un sous-total après le total TTC sans aide financière, intitulé « certificats d’économies d’énergie » ou « CEE », intitulé « estimation de l’aide MaPrimeRénov’ » ou « montant prévisionnel de MaPrimeRénov’ » (avec clause suspensive)": |
+          Une <b>clause suspensive</b> dans le devis peut apparaître sous la forme d’une note de bas de page à côté du montant prévisionnel de subvention vers un encart situé sur la même page intitulé de type <b>« Conditions particulières relatives à MaPrimeRénov’ »</b> comprenant le texte suivant : <br><br> <i>« Dans le cas où l’aide notifiée au client est inférieure au montant de l’aide prévisionnelle, l’usager n’est pas lié par le devis et l’entreprise s’engage à proposer un devis rectificatif. Le client conserve alors un droit de rétractation d’une durée de quatorze jours à partir de la date de présentation du devis rectificatif. L’aide MaPrimeRénov’ est conditionnelle et soumise à la conformité des pièces justificatives et informations déclarées par le bénéficiaire. En cas de fausse déclaration, de manœuvre  frauduleuse ou de changement du projet de travaux subventionnés, le bénéficiaire s’expose au retrait et reversement de tout ou partie de l’aide. Les services de l’Anah pourront faire procéder à tout contrôle des engagements et sanctionner le bénéficiaire et son mandataire éventuel des manquements constatés »</i><br>
+    - "Si prestation de dépannage, de réparation ou d'entretien : mention du caractère payant ou gratuit du devis": |
+            Lorsqu'un devis est payant, le devis ne peut être facturé que si le client a été informé préalablement et clairement de son caractère onéreux. À défaut, il est en droit de refuser de payer. Il est donc prudent de prévoir une information écrite.

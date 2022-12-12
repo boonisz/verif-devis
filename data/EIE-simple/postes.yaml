@@ -1,0 +1,457 @@
+# ==================================
+# ISOLATION TOITURE - Combles perdus
+# ==================================
+"ISOLATION TOITURE - Combles perdus":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux : Isolation des combles perdus": |
+           MaPrimeRénov’ ne finance pas l’isolation des combles perdus.
+        - "Si éco-prêt à taux zéro (éco-PTZ) : indiquer le rapport entre la surface existante à isoler et celle effectivement isolée": |
+           <b>Un intitulé de travaux de type</b> : <br><i>« Isolation de <b>100 %</b> de la toiture en combles perdus. »</i>
+    "Critères de performance":
+        - "Marque et référence de l’isolant posé"
+        - "Résistance thermique (R ≥ 7 m².K/W) et épaisseur de l’isolant"
+        - "Norme NF EN 12664, NF EN 12667, NF EN 12939, NF EN 16012 ou ACERMI"
+        - "Protection des conduits de fumées et éclairage encastrés contre les risques incendie"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Isoler 100 % de la toiture donnant sur le volume chauffé"
+        - "Choisir une isolation biosourcée est idéal pour améliorer le confort en été": |
+            Les isolants biosourcés doivent être porteurs d’une évaluation technique reconnue de type certification ACERMI ou évaluation technique du CSTB :<br>- Composés à plus de 50 % de la matière de matériaux biosourcés<br>- Résistance thermique assurée au 2/3 par l’isolant biosourcé
+        - "Mettre en place une membrane pare-vapeur (ou frein-vapeur)": |
+            Posée avec soin en utilisant les scotchs et accessoires adaptés, cette membrane améliore l'étanchéité à l'air et régule la migration de la vapeur d'eau à travers la paroi. <br>Elle protège ainsi l'isolation de points de condensation.
+        - "Traiter la trappe d’accès (si présente) : rehausse, isolation et étanchéité à l’air"
+        - "Créer un accès aux équipements présents (VMC, ...), de type platelage"
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "Écart au feu, réhausse rigide de la garde au feu (au moins 5% de l'épaisseur de l'isolant), pose d'un frein-vapeur, réhausse rigide et isolation de la trappe d'accès aux combles. "
+    commentaires:
+        - "[Guide pour choisir son devis : Isolation des combles perdus](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_ComblesPerdus.pdf)"
+
+
+# ==================================
+# ISOLATION TOITURE - Rampants de toiture
+# ==================================
+"ISOLATION TOITURE - Rampants de toiture":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux : Isolation des rampants de toiture (combles aménagés ou aménageables)": |
+           Concernant <b>l’isolation des toitures en pente</b>, MaPrimeRénov’ ne finance pas l’isolation des combles perdus, mais seulement celle des rampants de toiture ou plafond de combles. Les combles peuvent être aménagés ou aménageables. L’isolation en sarking est également éligible.
+        - "Si éco-prêt à taux zéro (éco-PTZ) : indiquer le rapport entre la surface existante à isoler et celle effectivement isolée": |
+           <b>Un intitulé de travaux de type</b> : <br><i>« Isolation de <b>100 %</b> de la toiture en pente en sarking. »</i>
+    "Critères de performance":
+        - "Marque et référence de l’isolant posé"
+        - "Résistance thermique (R ≥ 6 m².K/W) et épaisseur de l’isolant (pour les rampants de toiture et les plafonds de combles)"
+        - "Norme NF EN 12664, NF EN 12667, NF EN 12939, NF EN 16012 ou ACERMI"
+        - "Protection des conduits de fumées et des éclairages encastrés contre les risques d’incendie"
+        - "Précisions sur les revêtements de finition, les éléments de protection et les systèmes de fixation de l'isolant": |
+           Pour être éligible aux aides financières, le complexe isolant, fixation d'isolant, protection de l'isolant (<i>ex : plaque de plâtre</i>) doit être réalisé par l'entreprise qualifiée RGE.
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Isoler 100 % de la toiture donnant sur le volume chauffé"
+        - "Choisir une isolation biosourcée est idéal pour améliorer le confort en été": |
+            Les isolants biosourcés doivent être porteurs d’une évaluation technique reconnue de type certification ACERMI ou évaluation technique du CSTB :<br>- Composés à plus de 50 % de la matière de matériaux biosourcés<br>- Résistance thermique assurée au 2/3 par l’isolant biosourcé
+        - "Mettre en place une membrane pare-vapeur (ou frein-vapeur)": |
+            Posée avec soin en utilisant les scotchs et accessoires adaptés, cette membrane améliore l'étanchéité à l'air et régule la migration de la vapeur d'eau à travers la paroi. <br>Elle protège ainsi l'isolation de points de condensation.
+    commentaires:
+        - "[Guide pour choisir son devis : Isolation des rampants par l'intérieur](https://infoenergie38.org/wp-content/uploads/CHOIXDEVIS_Toiture_Int.pdf)"
+        - "[Guide pour choisir son devis : Isolation des rampants par l'extérieur ](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_Toiture%20Ext.pdf)"
+
+
+# ==================================
+# ISOLATION TOITURE - Toiture-terrasse
+# ==================================
+"ISOLATION TOITURE - Toiture-terrasse":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux : Isolation de la toiture-terrasse"
+        - "Si éco-prêt à taux zéro (éco-PTZ) : indiquer le rapport entre la surface existante à isoler et celle effectivement isolée": |
+           <b>Un intitulé de travaux de type</b> : <br><i>« Isolation de <b>100 %</b> de la toiture terrasse. »</i>
+    "Critères de performance":
+        - "Marque et référence de l’isolant posé"
+        - "Résistance thermique (R ≥ 4,5 m².K/W) et épaisseur de l’isolant"
+        - "Norme NF EN 12664, NF EN 12667, NF EN 12939, NF EN 16012 ou ACERMI"
+        - "Si requis, les aménagements nécessaires pour protéger l'isolant posé (étanchéité…)"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Isoler 100 % de la toiture donnant sur le volume chauffé"
+        - "Choisir une isolation biosourcée est idéal pour améliorer le confort en été": |
+            Les isolants biosourcés doivent être porteurs d’une évaluation technique reconnue de type certification ACERMI ou évaluation technique du CSTB :<br>- Composés à plus de 50 % de la matière de matériaux biosourcés<br>- Résistance thermique assurée au 2/3 par l’isolant biosourcé
+        - "Mettre en place une membrane pare-vapeur (ou frein-vapeur)": |
+            Posée avec soin en utilisant les scotchs et accessoires adaptés, cette membrane améliore l'étanchéité à l'air et régule la migration de la vapeur d'eau à travers la paroi. <br>Elle protège ainsi l'isolation de points de condensation.
+        - "Si les murs sont isolés par l’extérieur, isoler l’acrotère avec R ≥ 2 m².K/W" : |
+            L'<b>acrotère</b> est ce petit muret qui prolonge verticalement une façade au-dessus du niveau du toit.
+        - "Mettre en œuvre un isolant rigide, de façon à pouvoir circuler sur la toiture-terrasse sans dégrader l'étanchéité"
+
+
+# ==================================
+# ISOLATION MUR - Isolation Thermique par l'Intérieur (ITI)
+# ==================================
+"ISOLATION MUR - Isolation Thermique par l'Intérieur (ITI)":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux : Isolation des murs par l'intérieur"
+        - "Si éco-prêt à taux zéro (éco-PTZ)  : indiquer le rapport entre la surface existante à isoler et celle effectivement isolée": |
+           <b>Un intitulé de travaux de type</b> : <br><i>« Isolation intérieure de <b>100 %</b> des murs donnant sur l'extérieur. »</i>
+    "Critères de performance":
+        - "Marque et référence de l’isolant posé"
+        - "Résistance thermique (R ≥ 3,7 m².K/W pour les murs en façade ou en pignon) et épaisseur de l’isolant"
+        - "Norme NF EN 12664, NF EN 12667, NF EN 12939, NF EN 16012 ou ACERMI"
+        - "Protection des conduits de fumées contre les risques incendie"
+        - "Précisions sur les revêtements de finition, les éléments de protection et les systèmes de fixation de l'isolant": |
+           Pour être éligible aux aides financières, le complexe isolant, fixation d'isolant, protection de l'isolant (<i>ex : plaque de plâtre</i>) doit être réalisé par l'entreprise qualifiée RGE.
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Isoler au moins 50 % de la surface des murs situés entre le volume chauffé et l’extérieur"
+        - "Choisir une isolation biosourcée est primordial pour le bâti ancien (terre, pierre, mâchefer)": |
+            Les isolants biosourcés doivent être porteurs d’une évaluation technique reconnue de type certification ACERMI ou évaluation technique du CSTB :<br>- Composés à plus de 50 % de la matière de matériaux biosourcés<br>- Résistance thermique assurée au 2/3 par l’isolant biosourcé
+        - "Mettre en place une membrane pare-vapeur (ou frein-vapeur)": |
+            Posée avec soin en utilisant les scotchs et accessoires adaptés, cette membrane améliore l'étanchéité à l'air et régule la migration de la vapeur d'eau à travers la paroi. <br>Elle protège ainsi l'isolation de points de condensation.
+        - "Dans le cas où les menuiseries ne sont pas positionnées au nu intérieur du mur, isoler les tableaux de fenêtres avec R ≥ 0.8 m².K/W"
+        - "Traiter les points singuliers : grilles d'aération, traversée de paroi"
+        - "Traiter la jonction avec l'isolation des autres parois (plancher bas et toiture)"
+    commentaires:
+        - "[Guide pour choisir son devis : Isolation des murs par l'intérieur](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_ITImur.pdf)"
+        - "[Guide pour choisir son devis : Isolation des murs par l'intérieur - Bâti ancien](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_ITImur_BatiAncien.pdf)"
+
+
+# ==================================
+# ISOLATION MUR - Isolation Thermique par l'Extérieur (ITE)
+# ==================================
+"ISOLATION MUR - Isolation Thermique par l'Extérieur (ITE)":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux : Isolation des murs par l'extérieur"
+        - "Si éco-prêt à taux zéro (éco-PTZ) : indiquer le rapport entre la surface existante à isoler et celle effectivement isolée": |
+           <b>Un intitulé de travaux de type</b> : <br><i>« Isolation extérieure de <b>100 %</b> des murs donnant sur l'extérieur. »</i>
+    "Critères de performance":
+        - "Marque et référence de l’isolant posé"
+        - "Résistance thermique (R ≥ 3,7  m².K/W pour les murs en façade ou en pignon) et épaisseur de l’isolant"
+        - "Norme NF EN 12664, NF EN 12667, NF EN 12939, NF EN 16012 ou ACERMI"
+        - "Précisions sur les revêtements de finition, les éléments de protection et les systèmes de fixation de l'isolant": |
+           Pour être éligible aux aides financières, le complexe isolant, fixation d'isolant, protection de l'isolant (<i>ex : plaque de plâtre</i>) doit être réalisé par l'entreprise qualifiée RGE.
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Isoler au moins 50 % de la surface des murs situés entre le volume chauffé et l’extérieur"
+        - "Choisir une isolation biosourcée est primordial pour le bâti ancien (terre, pierre, mâchefer)": |
+            Les isolants biosourcés doivent être porteurs d’une évaluation technique reconnue de type certification ACERMI ou évaluation technique du CSTB :<br>- Composés à plus de 50 % de la matière de matériaux biosourcés<br>- Résistance thermique assurée au 2/3 par l’isolant biosourcé
+        - "Si les menuiseries ne sont pas positionnées au nu extérieur du mur, isoler les tableaux de fenêtres avec R ≥ 0,8 m².K/W"
+        - "Traiter la jonction avec l'isolation des autres parois (plancher bas et toiture), si besoin avec augmentation de la dépassée de toiture"
+        - "Traiter les points singuliers : grilles d’aération / descentes d’eaux pluviales / coffres de volets roulants et rails / stores et brise-soleils"
+        - "En cas de toiture-terrasse, isoler l’acrotère avec R ≥ 2 m².K/W": |
+            L'<b>acrotère</b> est ce petit muret qui prolonge verticalement une façade au-dessus du niveau du toit.
+    commentaires:
+        - "[Guide pour choisir son devis : Isolation des murs par l'extérieur](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_ITEmur.pdf)"
+        - "[Guide pour choisir son devis : Isolation des murs par l'extérieur - Bâti ancien](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_ITEmur_BatiAncien.pdf)"
+
+
+# ==================================
+# ISOLATION PLANCHER BAS
+# ==================================
+"ISOLATION PLANCHER BAS":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux : Isolation du plancher bas (sur sous-sol, vide sanitaire, passage ouvert ou terre-plein)" : |
+            L'isolation des plancher bas n'est pas éligible à MaPrimeRenov'. <br><br> Seuls les planchers bas sur sous-sol, vide sanitaire ou passage ouvert sont éligibles aux Certificats d'Économie d’Énergie (CEE). <br><br> <b>Préciser donc clairement le type de plancher bas dans le devis.</b>
+        - "Si éco-prêt à taux zéro (éco-PTZ) : indiquer le rapport entre la surface existante à isoler et celle effectivement isolée": |
+           <b>Un intitulé de travaux de type</b> : <br><i>« Isolation de <b>100 %</b> du plancher bas donnant sur un espace ouvert et un sous-sol. »</i>
+    "Critères de performance":
+        - "Marque et référence de l’isolant posé"
+        - "Résistance thermique (R ≥ 3 m².K/W pour les planchers bas sur sous-sol, sur vide sanitaire ou sur passage ouvert) et épaisseur de l’isolant"
+        - "Norme NF EN 12664, NF EN 12667, NF EN 12939, NF EN 16012 ou ACERMI "
+        - "Précisions sur les revêtements de finition, les éléments de protection et les systèmes de fixation de l'isolant": |
+           Pour être éligible aux aides financières, le complexe isolant, fixation d'isolant, protection de l'isolant (<i>ex : plaque de plâtre</i>) doit être réalisé par l'entreprise qualifiée RGE.
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Isoler 100 % de la surface (sur sous-sol, vide sanitaire, passage ouvert ou terre-plein) donnant sur le volume chauffé"
+        - "Opter pour des matériaux biosourcés": |
+            Les isolants biosourcés doivent être porteurs d’une évaluation technique reconnue de type certification ACERMI ou évaluation technique du CSTB :<br>- Composés à plus de 50 % de la matière de matériaux biosourcés<br>- Résistance thermique assurée au 2/3 par l’isolant biosourcé
+        - "Mettre en place une membrane pare-vapeur (ou frein-vapeur)": |
+            Posée avec soin en utilisant les scotchs et accessoires adaptés, cette membrane améliore l'étanchéité à l'air et régule la migration de la vapeur d'eau à travers la paroi. <br>Elle protège ainsi l'isolation de points de condensation.
+        - "Assurer au mieux la continuité de l'isolant en cas de réseaux ou d'autres éléments gênants"
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "Les panneaux d'isolant doivent être chevillés (pas uniquement collés) avec au moins 4 points de fixation."
+    commentaires:
+        - "[Guide pour choisir son devis : Isolation du plancher bas](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_PlancherBas.pdf)"
+
+
+# ==================================
+# MENUISERIES
+# ==================================
+"MENUISERIES":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Remplacement de toutes les menuiseries simple vitrage par du double vitrage en dépose totale au nu extérieur des murs »"
+        - "Si éco-prêt à taux zéro (éco-PTZ)  : indiquer le rapport entre la quantité installée et la quantité totale existante": |
+           Cela permettra de vérifier le respect de la proportion minimale de fenêtres changées. <br><br> <b>Un intitulé de travaux de type</b> : <br><i>« Remplacement de toutes les menuiseries simple vitrage du volume chauffé par du double vitrage. »</i>
+    "Critères de performance":
+        - "Marque et référence des menuiseries installées"
+        - "Uw et Sw de chaque gamme de menuiseries :<br>- Fenêtres ou portes-fenêtres : Uw ≤ 1,3 W/m².K et Sw ≥ 0,3 ou Uw ≤ 1,7 W/m².K et Sw ≥ 0,36<br>- Fenêtres de toit : Uw ≤ 1,5 W/m².K et Sw ≤ 0,36"
+        - "Préciser si remplacement de simple vitrage ou double vitrage ou si création d'ouvertures (pour chaque menuiserie)"
+        - "Préciser le type de pose : pose en rénovation ou en dépose totale"
+        - "Préciser si la menuiserie est située dans un volume chauffé ou non (pour chaque menuiserie)"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Remplacer 100 % des ouvrants donnant sur le volume chauffé": |
+            Les portes n’étant pas éligibles aux aides financières.
+        - "Si VMC simple flux, vérifier la présence d’entrées d’air sur les menuiseries des pièces sèches et leur absence sur les menuiseries des pièces humides."
+        - "Si VMC double flux, vérifier l'absence d’entrées d’air sur toutes les menuiseries."
+        - "Privilégier une classe 4 pour la perméabilité à l'air selon le classement AEV"
+    commentaires:
+        - "[Guide pour choisir son devis : Remplacement des menuiseries](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_Fen%C3%AAtres.pdf)"
+
+
+# ==================================
+# CHAUFFAGE - Chaudière biomasse bois à alimentation automatique
+# ==================================
+"CHAUFFAGE - Chaudière biomasse bois à alimentation automatique":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d'une chaudière à granulés (ou à bûches) à alimentation automatique en remplacement de ... »"
+        - "Le professionnel rédige une note de dimensionnement de la chaudière" :  |
+           Cette note est en rapport aux déperditions calculées à T = Tbase. <br> Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents.
+    "Critères de performance":
+        - "En cas de remplacement d’une chaudière individuelle (charbon, fioul, gaz), il est nécessaire de préciser dans le devis si le système existant est (ou n’est pas) une chaudière à condensation."
+        - "Marque et référence de l’appareil": |
+           Les critères de performance du label <b>Flamme Verte 7 étoiles</b> font que tous les appareils labélisés sont éligibles à l'ensemble des aides publiques. <br> <br> <b>Pour vérifier si l'appareil est labellisé :</b> <br> [Flamme verte](https://www.flammeverte.org/appareils) ou consulter [Le registre ADEME des appareils éligibles aux Fonds Air Bois](https://librairie.ademe.fr/air-et-bruit/5478-registre-des-appareils-eligibles-au-fonds-air-bois-non-labelises-flamme-verte.html).
+        - "Puissance de l'appareil"
+        - "Seuils de rendement énergétique et d’émission de polluants de la classe 5 de la norme NF EN 303.5"
+        - "Efficacité énergétique saisonnière (ɳs) supérieure à 77 % pour les chaudières ≤ 20 kW ou 79 % pour les chaudières supérieur à 20 kW (supérieur à 78% pour MaPrimeRenov'dans le second cas) "
+        - "Emission de monoxyde de carbone rapportée (CO) à 10 % d’O2 ≤ 400 mg/Nm3"
+        - "Emission de composés organiques volatiles (COG) rapportée à 10 % d’O2  ≤ 16 mg/Nm3"
+        - "Emission de particules rapportée à 10 % d’O2  ≤ 30 mg/Nm3"
+        - "Emissions d'oxydes d'azote (NOx) rapportée à 10 % d’O2  ≤ 200 mg/Nm3"
+        - "Régulation performante (classe IV au moins selon la classification européenne)"
+        - "Préciser le type de silo et sa contenance d'un minimum de 225 litres minimum": |
+           <b>ATTENTION</b> à l'intitulé : <br>« Silo de stockage externe ou interne, neuf ou existant, textile ou maçonné. »
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Calorifuger les canalisations traversant les volumes non chauffés, en classe 3 (selon la norme NF EN 12 828+A1:2014) minimum"
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "Calorifugeage des réseaux traversant les volumes non chauffés obligatoire en précisant la longueur isolée en mètre linéaire, la marques et la référence de l'isolant."
+    commentaires:
+        - "[Guide pour choisir son devis : Chaudière granulé bois](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_CHAUDIERE_GRANULE_BOIS.pdf)"
+        - "[Guide pour choisir son devis : Poêle hydraulique](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_POELE_HYDRO.pdf)"
+
+
+# ==================================
+# CHAUFFAGE - Chaudière biomasse bois à alimentation manuelle
+# ==================================
+"CHAUFFAGE - Chaudière biomasse bois à alimentation manuelle":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d'une chaudière à granulés (ou à bûches) à alimentation manuelle en remplacement de ... »"
+        - "Le professionnel rédige une note de dimensionnement de la chaudière" :  |
+           Cette note est en rapport aux déperditions calculées à T = Tbase. <br> Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents.
+    "Critères de performance":
+        - "En cas de remplacement d’une chaudière individuelle (charbon, fioul, gaz), il est nécessaire de préciser dans le devis si le système existant est (ou n’est pas) une chaudière à condensation."
+        - "Marque et référence de l’appareil"
+        - "Puissance de l'appareil": |
+           Les critères de performance du label <b>Flamme Verte 7 étoiles</b> font que tous les appareils labélisés sont éligibles à l'ensemble des aides publiques. <br> <br> <b>Pour vérifier si l'appareil est labellisé :</b> <br> [Flamme verte](https://www.flammeverte.org/appareils) ou consulter [Le registre ADEME des appareils éligibles aux Fonds Air Bois](https://librairie.ademe.fr/air-et-bruit/5478-registre-des-appareils-eligibles-au-fonds-air-bois-non-labelises-flamme-verte.html).
+        - "Seuils de rendement énergétique et d’émission de polluants de la classe 5 de la norme NF EN 303.5"
+        - "Efficacité énergétique saisonnière (ɳs) supérieure à 77 % pour les chaudières ≤ 20 kW ou 79 % pour les chaudières supérieur à 20 kW (supérieur à 78% pour MaPrimeRenov'dans le second cas)"
+        - "Emission de monoxyde de carbone rapportée (CO) à 10 % d’O2 ≤ 600 mg/Nm3"
+        - "Emission de composés organiques volatiles (COG) rapportée à 10 % d’O2  ≤ 20 mg/Nm3"
+        - "Emission de particules rapportée à 10 % d’O2  ≤ 40 mg/Nm3"
+        - "Emissions d'oxydes d'azote (NOx) rapportée à 10 % d’O2  ≤ 200 mg/Nm3"
+        - "Régulation performante (classe IV au moins selon la classification européenne)"
+        - "Préciser un ballon tampon (neuf ou existant)"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Calorifuger les canalisations traversant les volumes non chauffés, en classe 3 (selon la norme NF EN 12 828+A1:2014) minimum"
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "Calorifugeage des réseaux traversant les volumes non chauffés obligatoire en précisant la longueur isolée en mètre linéaire, la marques et la référence de l'isolant."
+    commentaires:
+        - "[Guide pour choisir son devis : Chaudière granulé bois](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_CHAUDIERE_GRANULE_BOIS.pdf)"
+        - "[Guide pour choisir son devis : Poêle hydraulique](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_POELE_HYDRO.pdf)"
+
+
+# ==================================
+# CHAUFFAGE - Poêle/Insert bois bûches
+# ==================================
+"CHAUFFAGE - Poêle/Insert bois bûches":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’un poêle (ou insert ou cuisinière) à bûches en remplacement de ... » "
+    "Critères de performance":
+        - "En cas de remplacement d’une chaudière individuelle (charbon, fioul, gaz), il est nécessaire de préciser dans le devis si le système existant est (ou n’est pas) une chaudière à condensation."
+        - "Marque et référence de l’appareil": |
+            Les critères de performance du label <b>Flamme Verte 7 étoiles</b> font que tous les appareils labélisés sont éligibles à l'ensemble des aides publiques. <br> <br> <b>Pour vérifier si l'appareil est labellisé :</b> <br> [Flamme verte](https://www.flammeverte.org/appareils) ou consulter [Le registre ADEME des appareils éligibles aux Fonds Air Bois](https://librairie.ademe.fr/air-et-bruit/5478-registre-des-appareils-eligibles-au-fonds-air-bois-non-labelises-flamme-verte.html).
+        - "Puissance de l'appareil"
+        - "Efficacité énergétique saisonnière (ETAS en ɳs) supérieure ou égale à 66%"
+        - "Rendement énergétique ≥ à 75 %"
+        - "Emission de monoxyde de carbone rapportée à 13 % d’O2 ≤ 1500 mg/Nm3"
+        - "Emission de particules rapportée à 13 % d’O2 ≤ à 40 mg/Nm3"
+        - "Les émissions d'oxydes d'azote (NOx) rapportée à 13 % d’O2 ≤ 200 mg/Nm3"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Installer une arrivée d’air dédiée exclusivement au poêle"
+        - "En cas de poêle canalisable, isoler les gaines traversant un volume non chauffé (passage sous l’isolant ou isolation des gaines proprement dites)"
+    commentaires:
+        - "[Guide pour choisir son devis : Poêle à bois](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_POELEBOIS.pdf)"
+
+
+# ==================================
+# CHAUFFAGE - Poêle/Insert bois granulés
+# ==================================
+"CHAUFFAGE - Poêle/Insert bois granulés":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’un poêle (ou insert ou cuisinière) à granulés en remplacement de ... »"
+    "Critères de performance":
+        - "En cas de remplacement d’une chaudière individuelle (charbon, fioul, gaz), il est nécessaire de préciser dans le devis si le système existant est (ou n’est pas) une chaudière à condensation."
+        - "Marque et référence de l’appareil": |
+            Les critères de performance du label <b>Flamme Verte 7 étoiles</b> font que tous les appareils labélisés sont éligibles à l'ensemble des aides publiques. <br> <br> <b>Pour vérifier si l'appareil est labellisé :</b> <br> [Flamme verte](https://www.flammeverte.org/appareils) ou consulter [Le registre ADEME des appareils éligibles aux Fonds Air Bois](https://librairie.ademe.fr/air-et-bruit/5478-registre-des-appareils-eligibles-au-fonds-air-bois-non-labelises-flamme-verte.html).
+        - "Puissance de l'appareil"
+        - "Efficacité énergétique saisonnière (ETAS en ɳs) supérieure ou égale à 80%"
+        - "Rendement énergétique ≥ à 87 %"
+        - "Emission de monoxyde de carbone rapportée à 13 % d’O2 ≤ à 300 mg/Nm3"
+        - "Emission de particules rapportée à 13 % d’O2 ≤ à 30 mg/Nm3"
+        - "Emissions d'oxydes d'azote (NOx) rapportée à 13 % d’O2 ≤ 200 mg/Nm3"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Installer une arrivée d’air dédiée exclusivement au poêle"
+        - "En cas de poêle canalisable, isoler les gaines traversant un volume non chauffé (passage sous l’isolant ou isolation des gaines proprement dites)"
+    commentaires:
+        - "[Guide pour choisir son devis : Poêle à bois](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_POELEBOIS.pdf)"
+
+
+# ==================================
+# CHAUFFAGE - Système Solaire Combiné
+# ==================================
+"CHAUFFAGE - Système Solaire Combiné":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d'un Système Solaire Combiné (SSC) en remplacement de ... »"
+    "Critères techniques":
+        - "Surface de capteurs est supérieure ou égale à 6m² en France Métropolitaine"
+        - "Les capteurs sont associés à un ou plusieurs ballons d'eau chaude solaire dont la capacité de stockage doit figurer sur les devis et factures"
+        - "La capacité de stockage du ou des ballons est strictement supérieure à 300L."
+        - "La classe énergétique du ou des ballons d'eau chaude solaire est à minima la classe C si le volume est supérieur à 500L."
+    "Critères de performance":
+        - "En cas de remplacement d’une chaudière individuelle (charbon, fioul, gaz), il est nécessaire de préciser dans le devis si le système existant est (ou n’est pas) une chaudière à condensation."
+        - "Marque et référence du système solaire combiné (SSC)"
+        - "Efficacité Énergétique Saisonnière (EES) des équipements de production de chauffage et dispositifs solaires pour le chauffage des locaux installés sur appoint séparé : <br>- ≥ 82% si EES de l’appoint séparé inférieur à 82 % <br>- ≥ 90% si EES de l’appoint inférieur à 90 % <br>- ≥ 98% si EES de l’appoint ≥ 90 % et inférieur à 98 %. Sinon supérieur d’au moins 5 points à l’EES de l’appoint."
+        - "Capteurs solaires disposant d’une certification CSTBat ou de la certification Solar Keymark ou équivalente"
+        - "La nature du fluide circulant dans les capteurs (eau, eau glycolée ou air), dans les conditions de pose et d'utilisation de l'équipement"
+
+
+# ==================================
+# CHAUFFAGE - PAC air-eau ou eau-eau
+# ==================================
+"CHAUFFAGE - PAC air-eau ou eau-eau":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’une pompe à chaleur air/eau (ou eau/eau, sol/eau, sol/sol) en remplacement... »  "
+        - "Le professionnel rédige une note de dimensionnement du générateur de chaleur" :  |
+           Cette note est en rapport aux déperditions calculées à T = Tbase. <br> Les déperditions concernent les pièces du logement desservies par le réseau de chauffage, sans considération des éventuels autres générateurs présents.
+    "Critères de performance":
+        - "En cas de remplacement d’une chaudière individuelle (charbon, fioul, gaz), il est nécessaire de préciser dans le devis si le système existant est (ou n’est pas) une chaudière à condensation."
+        - "Marque et référence de l’appareil (avec la puissance)"
+        - "Etas (efficacité énergétique saisonnière pour le chauffage, calculée avec son appoint électrique ou à combustible fossile) : <br> - ≥ à 126 % si fonctionne à basse température, <br> - ≥ à 111 % si fonctionne à moyenne et haute température"
+        - "Précision du régime de température de la PAC (basse, moyenne ou haute température) en fonction du réseau de distribution de chaleur"
+        - "Régulation performante (classe IV au moins selon la classification européenne)"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Calorifuger les canalisations traversant les volumes non chauffés, en classe 3 (selon la norme NF EN 12 828+A1:2014) minimum"
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "Calorifugeage des réseaux traversant les volumes non chauffés obligatoire en précisant la longueur isolée en mètre linéaire, la marques et la référence de l'isolant."
+    commentaires:
+        - "[Guide pour choisir son devis : Installation d'une PAC](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_PAC.pdf)"
+
+
+# ==================================
+# CHAUFFAGE - Gaz condensation THPE
+# ==================================
+"CHAUFFAGE - Gaz condensation THPE":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’une chaudière à gaz à condensation THPEn en remplacement de ... »"
+    "Critères de performance":
+        - "En cas de remplacement d’une chaudière individuelle (charbon, fioul, gaz), il est nécessaire de préciser dans le devis si le système existant est (ou n’est pas) une chaudière à condensation."
+        - "Marque et référence de l’appareil"
+        - "La puissance de l'appareil"
+        - "Etas (efficacité énergétique saisonnière pour le chauffage) ≥ à 92 % (pour les chaudières dont la puissance est ≤ à 70 kW)"
+        - "Marque et référence du régulateur installé"
+        - "Régulation performante (classe IV au moins selon la classification européenne)"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Calorifuger les canalisations traversant les volumes non chauffés, en classe 3 (selon la norme NF EN 12 828+A1:2014) minimum"
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "Calorifugeage des réseaux traversant les volumes non chauffés obligatoire en précisant la longueur isolée en mètre linéaire, la marques et la référence de l'isolant.": |
+           <b>ATTENTION</b> Pour les CEE Coup de Pouce Rénovation Globale Maison Individuelle, le chauffage et l'ECS ne doivent pas utiliser une source d'énergie de type gaz, fioul ou charbon.
+    commentaires:
+        - "[Guide pour choisir son devis : Chaudière gaz à condenstation THPE](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_CHAUDIERE_CONDENSATION.pdf)"
+
+
+# ==================================
+# EAU CHAUDE SANITAIRE - Chauffe-Eau Solaire Individuel CESI (appoint électrique)
+# ==================================
+"EAU CHAUDE SANITAIRE - Chauffe-Eau Solaire Individuel CESI (appoint électrique)":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’un chauffe-eau solaire individuel »"
+    "Critères techniques":
+        - "Surface de capteurs est supérieure ou égale à 2m² en France Métropolitaine"
+        - "Les capteurs sont associés à un ou plusieurs ballons d'eau chaude solaire dont la capacité de stockage doit figurer sur les devis et factures"
+        - "La classe énergétique du ou des ballons d'eau chaude solaire est à minima la classe C si le volume est supérieur à 500L."
+    "Critères de performance":
+        - "Marque et référence du chauffe-eau solaire individuel (CESI)"
+        - "Mention de la nature du fluide circulant dans les capteurs (eau, eau glycolée ou air), dans les conditions de pose et d'utilisation de l'équipement"
+        - "Efficacité énergétique pour le chauffage de l’eau des équipements de fourniture d’eau chaude et dispositifs sur appoint séparé (appoint électrique) : <br>- ≥ à 36 % si le profil de soutirage est de classe M, <br>- ≥ à 37 % si le profil de soutirage est de classe L, <br>- ≥ à 38 % si le profil de soutirage est de classe XL, <br>- ≥ à 40 % si le profil de soutirage est de classe XXL."
+    commentaires:
+        - "[Guide pour choisir son devis : CESI](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_CESI.pdf)"
+
+
+# ==================================
+# EAU CHAUDE SANITAIRE - Chauffe-Eau Solaire Individuel CESI (appoint autre)
+# ==================================
+"EAU CHAUDE SANITAIRE - Chauffe-Eau Solaire Individuel CESI (appoint autre)":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’un chauffe-eau solaire individuel »"
+    "Critères techniques":
+        - "Surface de capteurs est supérieure ou égale à 2m² en France Métropolitaine"
+        - "Les capteurs sont associés à un ou plusieurs ballons d'eau chaude solaire dont la capacité de stockage doit figurer sur les devis et factures"
+        - "La classe énergétique du ou des ballons d'eau chaude solaire est à minima la classe C si le volume est supérieur à 500L."
+    "Critères de performance":
+        - "Marque et référence du chauffe-eau solaire individuel (CESI)"
+        - "Mention de la nature du fluide circulant dans les capteurs (eau, eau glycolée ou air), dans les conditions de pose et d'utilisation de l'équipement"
+        - "Efficacité énergétique pour le chauffage de l’eau des équipements de fourniture d’eau chaude et dispositifs sur appoint séparé (autre) : <br>- ≥ à 95 % si le profil de soutirage est de classe M, <br>- ≥ à 100 % si le profil de soutirage est de classe L, <br>- ≥ à 110 % si le profil de soutirage est de classe XL, <br>- ≥ à 120 % si le profil de soutirage est de classe XXL"
+    commentaires:
+        - "[Guide pour choisir son devis : CESI](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_CESI.pdf)"
+
+
+# ==================================
+# EAU CHAUDE SANITAIRE - Chauffe-Eau Thermodynamique (CET)
+# ==================================
+"EAU CHAUDE SANITAIRE - Chauffe-Eau Thermodynamique (CET)":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de « Mise en place d’une Pompe à chaleur dédiée à l'eau chaude sanitaire de type CET »"
+    "Critères de performance":
+        - "Marque et référence du chauffe-eau thermodynamique"
+        - "Efficacité énergétique pour le chauffage de l’eau (chauffe-eau thermodynamique = pompe à chaleur pour la production d’eau chaude sanitaire) : <br>- ≥ à 95 % si le profil de soutirage est de classe M, <br>- ≥ à 100 % si le profil de soutirage est de classe L, <br>- ≥ à 110 % si le profil de soutirage est de classe XL"
+        - "COP de l’équipement mesuré conformément aux conditions de la norme EN 16147 : <br>- ≥ à 2,5 pour une installation sur air extrait, <br>- ≥ à 2,4 dans les autres cas."
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Opter pour des gaines de prise et rejet d’air directement sur l’air extérieur"
+
+
+# ==================================
+# VENTILATION - Ventilation Mécanique Contrôlé (VMC) simple flux
+# ==================================
+"VENTILATION - Ventilation Mécanique Contrôlé (VMC) simple flux":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’une VMC simple flux hygroréglable (Hygro A ou Hygro B) »"
+    "Critères de performance":
+        - "Marque et référence du caisson de VMC installé"
+        - "Marque et référence des bouches d’extraction"
+        - "Marque et référence des bouches d’entrée d’air"
+        - "Caisson de ventilation de classe d’efficacité énergétique B ou supérieure"
+        - "Caisson basse consommation avec puissance électrique absorbée pondérée ≤ à 15 WThC (dans une configuration T4 avec 1 salle de bain et 1 WC)"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Les travaux de ventilation devront respecter les débits réglementaires en vigueur de l'ensemble du bâtiment (arrêté du 24 mars 1982)."
+        - "Vérifier la présence d’entrées d’air sur les menuiseries des pièces sèches et leur absence sur les menuiseries des pièces humides."
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "La présence d’entrées d’air sur les menuiseries des pièces sèches et leur absence sur les menuiseries des pièces humides."
+    commentaires:
+        - "[Guide pour choisir son devis : VMC Simple Flux](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_VMC_SF.pdf)"
+
+
+# ==================================
+# VENTILATION - Ventilation Mécanique Contrôlé (VMC) double flux
+# ==================================
+"VENTILATION - Ventilation Mécanique Contrôlé (VMC) double flux":
+    "Informations spécifiques au poste de travaux":
+        - "Intitulé des travaux de type « Mise en place d’une VMC double flux »"
+    "Critères de performance":
+        - "Marque et référence du caisson de VMC installé"
+        - "Marque et référence des bouches d’extraction"
+        - "Marque et référence des bouches d’entrée d’air"
+        - "Caisson de ventilation de classe d’efficacité énergétique A ou supérieure"
+        - "Efficacité thermique de l’échangeur &gt; à 85 % (correspond à un caisson de ventilation certifié NF 205 ou équivalent)"
+    "#Recommandations des conseiller.ère.s énergie":
+        - "Les travaux de ventilation devront respecter les débits réglementaires en vigueur de l'ensemble du bâtiment (arrêté du 24 mars 1982)"
+        - "Vérifier l'absence d'entrées d'air sur toutes les menuiseries"
+    "#Points de vigilance dans le cadre des contrôles post chantier":
+        - "Absence d'entrées d'air sur les menuiseries"
+    commentaires:
+        - "[Guide pour choisir son devis : VMC Double Flux](http://www.infoenergie38.org/wp-content/uploads/CHOIXDEVIS_VMC_DF.pdf)"
+
+
+# ==================================
+# DEPOSE DE CUVE À FIOUL
+# ==================================
+"DEPOSE DE CUVE À FIOUL":
+    "Informations spécifiques au poste de travaux":
+        - "Détails des étapes : vidange, dégazage et nettoyage, comblement réservoir et retrait (avec le HT correspondant)"
+        - "L’entreprise qui intervient doit fournir à l’utilisateur un certificat garantissant la bonne exécution des opérations d’inertage citées ci-dessus (certificat d'abandon de cuve et bordereau de suivi des déchets)."
